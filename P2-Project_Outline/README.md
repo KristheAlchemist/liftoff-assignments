@@ -7,12 +7,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My capstone idea is for a quiz creation app. It would be for teachers or homeschooling parents. The user would be able to create quizzes by first selecting a question type, for example, Multiple Choice, True/False, etc… Then they would be able to enter the text for the question, and if needed, the possible answers. And finally, they would enter the correct answer. After that, a quiz would be generated for their students to use. The results would then be scored and stored for both teachers and students to view.
+
 ### Features
-Include Features here
+Some of the features would be, 1) a Sign-up/Login page for both teachers and students. 2) Quiz creation page. 3) Quiz results page
+
 ### Technologies
-Include Technologies here
+I would need to use Java, Javascript, Spring Boot, MySQL, Hibernate and Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I do want to add some Javascript to it to make it more interactive. 
+
 ### Project Tracker
 Link to your Trello board here
